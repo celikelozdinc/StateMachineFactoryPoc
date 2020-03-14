@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: tr.edu.itu.celikelni.Application
+Class-Path: spring-statemachine-core-2.1.3.RELEASE.jar spring-boot-autoc
+ onfigure-2.1.7.RELEASE.jar spring-expression-5.1.9.RELEASE.jar spring-b
+ oot-starter-logging-2.1.7.RELEASE.jar spring-context-5.1.9.RELEASE.jar 
+ spring-aop-5.1.9.RELEASE.jar annotations-19.0.0.jar log4j-api-2.11.2.ja
+ r logback-core-1.2.3.jar logback-classic-1.2.3.jar spring-beans-5.1.9.R
+ ELEASE.jar spring-boot-starter-2.1.7.RELEASE.jar jul-to-slf4j-1.7.26.ja
+ r slf4j-api-1.7.26.jar spring-messaging-5.1.9.RELEASE.jar spring-boot-2
+ .1.7.RELEASE.jar spring-core-5.1.9.RELEASE.jar javax.annotation-api-1.3
+ .2.jar spring-tx-5.1.9.RELEASE.jar snakeyaml-1.23.jar log4j-to-slf4j-2.
+ 11.2.jar spring-jcl-5.1.9.RELEASE.jar
+
